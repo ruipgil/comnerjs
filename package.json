@@ -1,0 +1,28 @@
+{
+  "name": "ComnerJs",
+  "version": "0.1.0",
+  "description": "Command line utils for node.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ruipgil/ComnerJs"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "console",
+    "message",
+    "dispatcher",
+    "nodejs",
+    "node",
+    "utils"
+  ],
+  "author": "Rui Gil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruipgil/ComnerJs/issues"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/ComnerJs"
+}

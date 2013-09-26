@@ -1,5 +1,5 @@
 {
-  "name": "ComnerJs",
+  "name": "comner",
   "version": "0.1.0",
   "description": "Command line utils for node.",
   "repository": {
@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/ruipgil/ComnerJs/issues"
   },
-  "directories": {
-    "lib": "./lib"
-  },
-  "main": "./lib/ComnerJs"
+  "main": "./lib/main.js"
 }

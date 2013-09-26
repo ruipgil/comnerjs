@@ -9,11 +9,17 @@ Command line utils for node.
 ### Planned functionalities
 * Arguments parser
 
-Examples
+Usage
 -------
 
+### Installing
+
+``` npm install comner ```
+
+### Creation and configuration
+
 ```javascript
-var ComnerJs = require("ComnerJs");
+var ComnerJs = require("comnerjs");
 //...
 var dispatcher = new ComnerJs.ConsoleDispatcher({
   in: process.stdin,
